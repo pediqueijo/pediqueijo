@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    color: blue;
+}
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+
+}
+img{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: chartreuse 4px 4px;
+}
+p{
+    width: 60%;
+    font-size: 1.3rem;
+    font-weight: 800;
+    display: flex;
+    margin: auto;
+    text-align: justify;
+}
